@@ -1,0 +1,5 @@
+{
+  "name": "Relational Codex v3.0 Viewer",
+  "description": "An interactive web page to explore the Relational Codex v3.0, a framework for ethical AI-Human collaboration. The content is presented in a clean, readable, and collapsible format.",
+  "requestFramePermissions": []
+}
